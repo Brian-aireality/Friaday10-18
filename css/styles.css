@@ -1,0 +1,26 @@
+/* Friday practice page 10-18-2019
+I am working from my home computer for this project */
+body {
+  background-color: black;
+  }
+nav {
+  background-color: lightgray;
+}
+header {
+  background-color: white;
+}
+.one {
+  background-color: blue;
+  margin: 5px;
+  width: 30%;
+}
+.two {
+  background-color: lightblue;
+  margin: 5px;
+  width: 30%;
+}
+.three {
+  background-color: lightgreen;
+  width: 30%;
+  margin: 5px;
+}
