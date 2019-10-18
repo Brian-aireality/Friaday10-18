@@ -9,9 +9,16 @@ nav {
 header {
   background-color: white;
 }
+img.wide {
+  height: 400px;
+}
+img.top {
+  height: 400px;
+  width: 500px;
+}
 img {
-  height: 300px;
-
+  height: 400px;
+  width: 600px;
 }
 .one {
   background-color: blue;
