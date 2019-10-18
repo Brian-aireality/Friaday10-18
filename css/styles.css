@@ -9,18 +9,22 @@ nav {
 header {
   background-color: white;
 }
+img {
+  height: 300px;
+
+}
 .one {
   background-color: blue;
   margin: 5px;
-  width: 30%;
+  width: 90%;
 }
 .two {
   background-color: lightblue;
   margin: 5px;
-  width: 30%;
+  width: 90%;
 }
 .three {
   background-color: lightgreen;
-  width: 30%;
+  width: 90%;
   margin: 5px;
 }
