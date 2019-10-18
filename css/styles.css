@@ -2,36 +2,49 @@
 I am working from my home computer for this project */
 body {
   background-color: black;
+  margin: 5px;
   }
 nav {
   background-color: lightgray;
+  margin: 5px;
 }
 header {
   background-color: white;
+  margin: 5px;
+  padding: 8px;
+  color: green;
 }
-img.wide {
+/* img.wide {
   height: 400px;
 }
 img.top {
   height: 400px;
   width: 500px;
-}
+} */
 img {
   height: 400px;
   width: 600px;
+  margin: 10px;
+}
+h2  {
+  margin: 10px;
+  text-align: center;
+}
+footer {
+  background-color: salmon;
 }
 .one {
   background-color: blue;
-  margin: 5px;
+  margin-left: : 10px;
   width: 90%;
 }
 .two {
   background-color: lightblue;
-  margin: 5px;
+  margin: 10px;
   width: 90%;
 }
 .three {
   background-color: lightgreen;
   width: 90%;
-  margin: 5px;
+  margin: 10px;
 }
